@@ -1,6 +1,7 @@
 # VBAShellCodeCallFuncInDLL
 
 This PoC shows how to execute shellcode from VBA, RtlMoveMemory, VirtualAlloc and CreateThread is moved to funcshell.dll
+reverse shell execute. Tested on Windows Defender Enterprise, Trend Micro Apex One, Cisco AMP all bypass.
 
 
 VBA NewMacros:
